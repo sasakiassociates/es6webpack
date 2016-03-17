@@ -1,0 +1,19 @@
+{
+  "name": "es6webpack",
+  "version": "1.0.0",
+  "description": "Boilerplate for ES6 and Webpack for WebStorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasakiassociates/es6webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasakiassociates/es6webpack/issues"
+  },
+  "homepage": "https://github.com/sasakiassociates/es6webpack#readme"
+}
