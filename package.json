@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/sasakiassociates/es6webpack/issues"
   },
+  "devDependencies": {
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-polyfill": "^6.3.14",
+
+    "webpack": "^1.12.6",
+    "webpack-dev-server": "^1.12.1",
+    "copy-webpack-plugin": "^0.2.0"
+  },
+  "babel": {
+    "presets": ["es2015"]
+  },
   "homepage": "https://github.com/sasakiassociates/es6webpack#readme"
 }
